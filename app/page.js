@@ -1,4 +1,3 @@
-// import {AccessButton} from 'accessibility-toolkit'
 import { AccessibilityProvider, AccessibilityButton } from 'accessibility-toolkit';
 
 export default function Home() {
